@@ -1,0 +1,1 @@
+# MPI-Sistem-Pertidaksamaan-Linear-Dua-Variabel
